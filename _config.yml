@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ling Guo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Montréal"
+  employer         : "École Technologie Supérieure"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ling.guo.1@ens.etsmtl.ca" 
 
   # Academic websites
   academia         : # URL
@@ -42,9 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+
 
 
   # Repositories and software development
@@ -63,7 +61,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Software Project Estimation Chinese translation'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
