@@ -42,4 +42,4 @@ Please see my [Teaching & Training](/teaching/) page.
 
 ## Languages
 
-Chinese · English · French
+Chinese · English · French 
