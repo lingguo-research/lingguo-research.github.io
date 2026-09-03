@@ -1,7 +1,7 @@
 ---
 title: "If Management Work Cannot Be Measured in COSMIC Function Points, How Can Its Effort Be Estimated?"
-date: 2026-07-01
-permalink: /posts/2026/07/cosmic-functional-size-and-management-effort/
+date: 2026-08-25
+permalink: /posts/2026/08/cosmic-functional-size-and-management-effort/
 tags:
   - COSMIC
   - Software Measurement
@@ -12,6 +12,8 @@ tags:
 I recently received a question from a reader about the relationship between functional size and effort:
 
 > **Management activities are not directly associated with functional size. Should the cost of management work therefore be estimated separately?**
+
+![Reader question about management effort](/images/blog/functional-size-effort/management-effort-question.jpg)
 
 The question came from an organization where software development is outsourced to several suppliers. Front-end development, back-end development, and testing are performed by different teams, while project management and overall coordination are handled internally.
 
@@ -88,6 +90,8 @@ If historical project data show a relationship between software functional size 
 
 **Functional Size → Number of Test Cases**
 
+![Relationship between functional size and number of test cases](/images/blog/functional-size-effort/functional-size-test-cases.jpg)
+
 The same principle can be extended to effort:
 
 **Functional Size → Test Case Preparation Effort**
@@ -103,6 +107,8 @@ The relationship must be established and validated using historical data.
 The same idea can be applied when analyzing productivity.
 
 Suppose an organization maps functional size and effort for projects belonging to several different production lines. The data may reveal that each production line has a different productivity pattern.
+
+![Productivity patterns across production lines](/images/blog/functional-size-effort/productivity-by-production-line.jpg)
 
 This information can support management decisions.
 
