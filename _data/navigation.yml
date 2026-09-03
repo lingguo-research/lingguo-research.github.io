@@ -26,9 +26,6 @@ main:
   - title: "Blog"
     url: /Blog/
     
-  - title: "Scholarship"
-    url: /scholarship/
-    
     
   - title: "CV"
     url: /CV/
