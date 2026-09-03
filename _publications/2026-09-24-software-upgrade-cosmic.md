@@ -1,7 +1,7 @@
 ---
 title: "A Software Version Upgrade sized with the COSMIC ISO standard: Management Lessons Learned from a Case Study"
 collection: publications
-category: conference
+category: manuscripts
 permalink: /publication/2026-09-24-software-upgrade-cosmic
 date: 2026-09-24
 venue: "IWSM/MENSURA 2026: International Workshop on Software Measurement and MENSURA Conference"
