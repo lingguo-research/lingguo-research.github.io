@@ -63,13 +63,7 @@ The final measurement results are also recorded in the template, leading to comp
 
 Below are several examples of measurement templates designed by participants in online COSMIC courses.
 
-![COSMIC measurement template example 1](/images/blog/learning-cosmic/cosmic-template-example-1.jpg)
-
-![COSMIC measurement template example 2](/images/blog/learning-cosmic/cosmic-template-example-2.jpg)
-
-![COSMIC measurement template example 3](/images/blog/learning-cosmic/cosmic-template-example-3.jpg)
-
-![COSMIC measurement template example 4](/images/blog/learning-cosmic/cosmic-template-example-4.jpg)
+![Examples of COSMIC measurement templates](/images/blog/learning-cosmic/cosmic-measurement-template-examples.jpg)
 
 ## Decompose Requirements Before Measurement
 
@@ -83,7 +77,7 @@ The design of the measurement template should reflect this hierarchical structur
 
 The document to be measured should therefore be decomposed according to the definition of a functional process so that individual functional processes can be identified.
 
-![Functional process definition](/images/blog/learning-cosmic/functional-process-definition.jpg)
+![Definition of a functional process](/images/blog/learning-cosmic/functional-process-definition.jpg)
 
 Some requirements are clearly written and functional processes can be identified relatively easily.
 
@@ -103,17 +97,11 @@ A more effective approach is to connect each concept with a concrete example.
 
 If you can understand how the COSMIC concepts correspond to the elements in a specific example, the same measurement logic can then be extended to other scenarios.
 
-The following two figures illustrate this relationship.
-
-![COSMIC concepts mapped to an example](/images/blog/learning-cosmic/cosmic-concepts-example.jpg)
-
-![COSMIC data movements mapped to an example](/images/blog/learning-cosmic/cosmic-data-movements-example.jpg)
+![COSMIC login example and key concepts](/images/blog/learning-cosmic/cosmic-login-example.jpg)
 
 ## Practice Repeatedly
 
-Becoming proficient in COSMIC requires repeated practice in two fundamental activities:
-
-**decomposing requirements** and **identifying functional size**.
+Becoming proficient in COSMIC requires repeated practice in two fundamental activities: **decomposing requirements** and **identifying functional size**.
 
 The more requirements you analyze and the more frequently you apply the COSMIC rules, the more familiar you become with the method.
 
