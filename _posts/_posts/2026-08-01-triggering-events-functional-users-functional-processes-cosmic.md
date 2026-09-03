@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Relationship Between Triggering Events, Functional Users, and Functional Processes in COSMIC"
-date: 2026-08-20
+date: 2026-08-01
 permalink: /posts/2026/08/triggering-events-functional-users-functional-processes-cosmic/
 tags:
   - COSMIC
