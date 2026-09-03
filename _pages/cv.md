@@ -1,64 +1,45 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D. in Software Engineering**  
+École de technologie supérieure (ÉTS), Montréal, Canada  
+2024–Present
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Software Measurement · Software Estimation · COSMIC Functional Size Measurement · Early Software Sizing · Software Engineering Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**COSMIC & CMMI Consultant**  
+Measures Technology Consulting Ltd.  
+2016–2023
+
+**Quality Engineer**  
+Dalian Commodity Exchange  
+2013–2016
+
+## Publications
+
+Please see my [Publications](/publications/) page for a complete list of publications and translations.
+
+## Teaching & Training
+
+Please see my [Teaching & Training](/teaching/) page.
+
+## Professional Certifications
+
+- Project Management Professional (PMP)
+- PMI Agile Certified Practitioner (PMI-ACP)
+- Certified Scrum@Scale Practitioner
+- Certified Scrum Master
+- Registered CMMI Interpreter
+
+## Languages
+
+Chinese · English · French
