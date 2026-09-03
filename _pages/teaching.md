@@ -22,12 +22,12 @@ Delivered COSMIC-related training to professionals from organizations including 
 
 ### Professional COSMIC Training, 2017
 
-<img src="/images/teaching2017.png" alt="Professional COSMIC training in 2017" width="800">
+<img src="/images/teaching2016.png" alt="Professional COSMIC training in 2017" width="800">
 
 *Delivering a professional COSMIC training session to software professionals in China, 2017.*
 
 ### Internal Software Process Training, 2016
 
-<img src="/images/teaching2016.png" alt="Internal software process training in 2016" width="800">
+<img src="/images/teaching2017.png" alt="Internal software process training in 2016" width="800">
 
 *Delivering an internal training session on the company's software process and management system, China, 2016.*
