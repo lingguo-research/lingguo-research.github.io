@@ -1,7 +1,7 @@
 ---
 title: "If Management Work Cannot Be Measured in COSMIC Function Points, How Can Its Effort Be Estimated?"
-date: 2026-08-25
-permalink: /posts/2026/08/cosmic-functional-size-and-management-effort/
+date: 2026-07-01
+permalink: /posts/2026/07/cosmic-functional-size-and-management-effort/
 tags:
   - COSMIC
   - Software Measurement
