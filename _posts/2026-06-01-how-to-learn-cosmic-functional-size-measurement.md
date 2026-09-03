@@ -1,6 +1,6 @@
 ---
 title: "How to Learn COSMIC Functional Size Measurement Systematically"
-date: 2026-07-20
+date: 2026-06-01
 permalink: /posts/how-to-learn-cosmic-functional-size-measurement/
 tags:
   - COSMIC
