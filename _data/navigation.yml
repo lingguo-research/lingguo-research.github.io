@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/ 
 
   - title: "Talks"
@@ -24,7 +24,10 @@ main:
     url: /experience/
         
   - title: "Blog"
-    url: /Blog/
+    url: /blog/
+    
+  - title: "Scholarship"
+    url: /scholarship/
     
     
   - title: "CV"
