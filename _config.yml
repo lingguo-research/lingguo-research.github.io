@@ -26,6 +26,7 @@ author:
   name             : "Ling Guo"
   pronouns         : "she/her"  
   bio              : "3rd-year PhD candidate in software engineering"
+  Research interests: "Software Measurement, Software Estimation, COSMIC Functional Points, Software Engineering"
   location         : "Montréal"
   employer         : "École Technologie Supérieure"
   email            : "ling.guo.1@ens.etsmtl.ca" 
@@ -36,16 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0009-2175-7102"
 
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
   # Social media
-  lastfm           : # Username
   linkedin         : # https://www.linkedin.com/in/ling-guo-3bb0ba62/
   zhihu            : # https://www.zhihu.com/people/guoguo73777
 
