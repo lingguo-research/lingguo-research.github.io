@@ -12,9 +12,7 @@ tags:
 I recently received a question from a reader about the relationship between functional size and effort:
 
 > **Management activities are not directly associated with functional size. Should the cost of management work therefore be estimated separately?**
-
 ![Reader question about management effort](/images/blog/functional-size-effort/management-effort-question.jpg)
-
 The question came from an organization where software development is outsourced to several suppliers. Front-end development, back-end development, and testing are performed by different teams, while project management and overall coordination are handled internally.
 
 Different roles are typically charged according to the effort they spend on the project. The organization therefore wants to plan ahead and estimate the effort required by these different activities as accurately as possible for budgeting purposes.
