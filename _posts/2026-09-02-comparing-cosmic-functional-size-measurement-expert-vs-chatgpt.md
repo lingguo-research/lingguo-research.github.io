@@ -24,7 +24,9 @@ Two requirements were selected and submitted to ChatGPT for measurement. The res
 
 The first requirement concerns searching for a course.
 
-![Requirement - Search for a Course](/images/blog/cosmic-chatgpt/course-search-requirement.jpg)
+<img src="/images/blog/cosmic-chatgpt/course-search-requirement.jpg"
+     alt="Query Course Setup (Student)"
+     style="width:70%; display:block; margin:20px auto;">
 
 After entering the requirement into ChatGPT, the following measurement result was obtained:
 
