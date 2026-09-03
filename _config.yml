@@ -11,10 +11,9 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ling Guo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ling Guo"
 description              : &description "Ling Guo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://lingguo-research.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://lingguo-research.github.io                                                       
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -29,13 +28,12 @@ author:
   bio              : "3rd-year PhD candidate in software engineering"
   location         : "Montréal"
   employer         : "École Technologie Supérieure"
-  uri              : # URL
   email            : "ling.guo.1@ens.etsmtl.ca" 
 
   # Academic websites
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-2175-7102"
 
 
   # Repositories and software development
@@ -48,8 +46,8 @@ author:
 
   # Social media
   lastfm           : # Username
-  linkedin         : # Username
-  zhihu            : # Username
+  linkedin         : # https://www.linkedin.com/in/ling-guo-3bb0ba62/
+  zhihu            : # https://www.zhihu.com/people/guoguo73777
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
