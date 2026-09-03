@@ -1,7 +1,7 @@
 ---
 title: "Sizing Software Application Generators: A Case Study of the SimSE Educational Games Generator for Software Engineering Students"
 collection: publications
-category: conference
+category: manuscripts
 permalink: /publication/2026-09-24-simse-generator-sizing
 date: 2026-09-24
 venue: "IWSM/MENSURA 2026: International Workshop on Software Measurement and MENSURA Conference"
