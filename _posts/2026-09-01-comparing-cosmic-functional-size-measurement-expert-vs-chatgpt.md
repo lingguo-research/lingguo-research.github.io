@@ -1,6 +1,6 @@
 ---
 title: "Comparing COSMIC Functional Size Measurement: Expert vs. ChatGPT"
-date: 2026-09-02
+date: 2026-09-01
 permalink: /posts/cosmic-expert-vs-chatgpt/
 tags:
   - COSMIC
