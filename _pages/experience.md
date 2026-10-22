@@ -4,6 +4,37 @@ permalink: /experience/
 author_profile: true
 ---
 
+## Chair of the Certification Committee
+
+**COSMIC | September 2026 – Present**
+
+[Certification Committee](https://cosmic-sizing.org/organization/committees/certification-committee/)
+
+- Lead the development and maintenance of examinations that certify users' competence in the COSMIC method at different levels.
+- Oversee the certification examination process, including scheduling, administration, examination documentation, and issuing certificates to successful candidates.
+
+## Member of the Measurement Practices Committee
+
+**COSMIC | September 2026 – Present**
+
+[Measurement Practices Committee](https://cosmic-sizing.org/organization/committees/measurement-practices-committee)
+
+- Contribute to maintaining the principles and rules of the COSMIC method.
+- Help track, analyse, and resolve issues related to the COSMIC method and its publications.
+- Support the development of products that facilitate COSMIC software sizing.
+- Contribute to reviewing official COSMIC documents and ensuring their conformity with ISO/IEC 19761.
+
+## Member in Educational Simulator for Software Estimation Project
+
+**COSMIC | January 2024 – Present**
+
+[Educational Simulator for Software Estimation](https://cosmic-sizing.org/educational-simulator-for-software-estimation/)
+
+- Contribute to an educational simulator for software project effort estimation.
+- Support the integration of COSMIC functional size measurement (ISO/IEC 19761) into software engineering education.
+- Contribute to integrating a-posteriori and a-priori software estimation models into the SimSE educational game environment.
+
+
 ## COSMIC & CMMI Consultant
 **Measures Technology Consulting Ltd. | 2016–2023**
 
